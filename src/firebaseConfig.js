@@ -7,7 +7,7 @@ import { getFirestore } from "firebase/firestore";
 import { getFunctions } from 'firebase/functions';
 
 const firebaseConfig = {
-    apiKey: "AIzaSyBYUOTS6_mppusRnWu8vPDloYAcGRdEAng",
+    apiKey: "",
     authDomain: "animal-dating-app-12de9.firebaseapp.com",
     projectId: "animal-dating-app-12de9",
     storageBucket: "animal-dating-app-12de9.appspot.com",
